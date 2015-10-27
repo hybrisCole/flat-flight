@@ -1,0 +1,13 @@
+{
+  "name": "flat-flight",
+  "version": "0.0.1",
+  "description": "Flat Flight.",
+  "author": "Alberto Cole",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hybrisCole/flat-flight.gits"
+  },
+  "dependencies": {
+    "three.js": "0.73.0"
+  }
+}
